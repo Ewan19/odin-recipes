@@ -13,6 +13,7 @@ body{
 .listmain{
     text-align: center;
     font-size: 30px;
+    list-style-position: inside;
 }
 
 img{
